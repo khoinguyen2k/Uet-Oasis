@@ -2,6 +2,6 @@
 
 Bài tập hàng tuần cho khóa học OOP trên website oasis.uet.vnu.edu của UET.
 
-'Good luck to find this treasure.'
+> Good luck to find this treasure!
 
 *tag: dap an oasis uet, oasis uet.*
